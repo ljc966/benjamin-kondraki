@@ -123,7 +123,7 @@ const MODE_NORMAL = 1, MODE_ENDLESS = 2, MODE_PRACTICE = 3;
         _gameBBListIndex = 0,
         _gameOver = false,
         _gameStart = false,
-        _gameSettingNum=10,
+        _gameSettingNum=15,
         _gameTime, _gameTimeNum, _gameScore, _date1, deviationTime;
 
     let _gameStartTime, _gameStartDatetime;
